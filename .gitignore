@@ -51,6 +51,9 @@
 .*
 ~*
 
+# except the eleventy config
+!.eleventy.js
+
 # ignore node/grunt dependency directories
 node_modules/
 
