@@ -52,5 +52,9 @@ The club also sponsors a VHF repeater on the roof of West Village H:
 
 `145.31- PL 123.0`
 
-<a href="https://www.qrz.com/db/W1KBN" class="retro-button">QRZ Page</a>
+<a href="https://www.qrz.com/db/W1KBN" class="retro-button">QRZ Page</a> <a href="https://www.qrz.com/db/W1KBN" class="retro-button">QSL Cards</a>
 
+-------------------------
+
+See our upcoming events right here in one handy view. You can even add it to your personal gcal!
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showPrint=0&showNav=0&title=Wireless%20Club%20Events&mode=AGENDA&showDate=0&showTabs=0&showTz=0&src=Y18xOWIwM2YyODAyNGNiMjNmZWY5NzhkYmU2Y2JhYzM4NWRmYjgxNjVhZDRjOTA2YmM2NjQwNDYzN2IzODg0NmY4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23F4511E" style="border-width:0" width="100%" height="400" frameborder="0" scrolling="no" alt="Upcoming events calendar"></iframe>
