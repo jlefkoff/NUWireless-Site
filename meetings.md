@@ -43,7 +43,5 @@ Below is a selection of meeting presentations from previous years. As you can se
 ## Fall 2023
 - Zach Perry (alum) - ["Fun with Batteries"](https://docs.google.com/presentation/d/1tlBs79ehwOf9Xg5l76ccZEFzYar4Kl28/edit?usp=sharing&ouid=104260666525697802671&rtpof=true&sd=true)
 
-
-
 ## Spring 2017
 - Luke (alum) - ["Spintronics Research"](https://drive.google.com/file/d/1E_TF6VSQeLlgk_HRp-_8DLiOvWasCIZi/view?usp=sharing)

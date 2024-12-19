@@ -164,6 +164,18 @@
         header {
           width: 100%;
         }
+        .slack-container {
+          display: flex; /* Use flexbox to position elements side by side */
+          justify-content: center; /* Center the links horizontally */
+          align-items: center; /* Align items vertically */
+          gap: 10px; /* Add space between the items */
+        }
+        .slack-link img {
+          max-width: 100px; /* Scale down the images */
+          height: auto; /* Maintain aspect ratio */
+          border-radius: 8px; /* Optional: Add rounded corners */
+          box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Optional: Add shadow for emphasis */
+        }
         .container {
           flex-direction: column;
           align-items: center;
