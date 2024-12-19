@@ -118,6 +118,40 @@
         color: white;
         text-decoration: none;
       }
+      table {
+        width: 90%; /* Make the table span the container width */
+        border-collapse: collapse; /* Remove gaps between cells */
+        margin: 20px 0; /* Add some spacing above and below the table */
+        font-size: 16px;
+        color: black;
+      }
+      th,
+      td {
+        padding: 12px 15px; /* Add padding for readability */
+        text-align: left; /* Align text to the left */
+        border: 1px solid #ddd; /* Add a light border */
+      }
+      th {
+        background-color: #222; /* Dark background for headers */
+        color: white; /* White text for headers */
+        text-transform: uppercase; /* Capitalize header text */
+      }
+      tr:nth-child(even) {
+        background-color: #f9f9f9; /* Light gray for even rows */
+      }
+      tr:nth-child(odd) {
+        background-color: #fff; /* White for odd rows */
+      }
+      tr:hover {
+        background-color: #f1f1f1; /* Slightly darker gray on hover */
+      }
+      caption {
+        caption-side: top; /* Place caption above the table */
+        font-weight: bold;
+        font-size: 1.2em;
+        margin-bottom: 10px;
+        text-align: left;
+      }
       /* Mobile Styles */
       @media(max-width: 768px) {
         header,
