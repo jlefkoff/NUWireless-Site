@@ -11,7 +11,7 @@ The Wireless club has existed in some form as a group of people interested in th
 ![1923 Club Photo](/img/cauldron-23.png)
 *The first appearance of the club in the school yearbook, the Cauldron, in 1923.*
 
-![1998 Club Website](/img/Website-2004.png)
+![1998 Club Website](/img/Website-2004.jpg)
 *The club's website in 1998.*
 
 ![Spring 2004 Club Photo](/img/Club_04.JPG)
