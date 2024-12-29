@@ -21,5 +21,5 @@ For general inquiries, please email us at `info at nuwireless.org`.
 | Ham Guru | Jacy Hoffmann KC1SZV | `treasurer at nuwireless.org` |
 | Outreach Coordinator | ????????? | `outreach at nuwireless.org` |
 | Lab Manager | ????????? | `lab at nuwireless.org` |
-| Workshop Warriors | Maggie Heaney, Vlad Aviedov, Muhammad Elarbi | `workshops at nuwireless.org` |
-| Treasurer | Jake Ginesin | `treasurer at nuwireless.org` |
+| Workshop Warriors | Maggie Heaney KC1TOQ, Vlad Aviedov N1GNU, Muhammad Elarbi | `workshops at nuwireless.org` |
+| Treasurer | Jake Ginesin KC3UTS | `treasurer at nuwireless.org` |
