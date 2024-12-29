@@ -3,8 +3,8 @@ module.exports = function (eleventyConfig) {
   
   return {
     dir: {
-      input: ".",
-      includes: "_includes",
+      input: "./pages",
+      includes: "../_includes",
       output: "_site"
     },
     templateFormats: ["njk", "md", "html"],
