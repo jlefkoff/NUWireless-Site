@@ -58,3 +58,29 @@ The club also sponsors a VHF repeater on the roof of West Village H:
 
 See our upcoming events right here in one handy view. You can even add it to your personal gcal!
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showPrint=0&showNav=0&title=Wireless%20Club%20Events&mode=AGENDA&showDate=0&showTabs=0&showTz=0&src=Y18xOWIwM2YyODAyNGNiMjNmZWY5NzhkYmU2Y2JhYzM4NWRmYjgxNjVhZDRjOTA2YmM2NjQwNDYzN2IzODg0NmY4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23F4511E" style="border-width:0" width="100%" height="400" frameborder="0" scrolling="no" alt="Upcoming events calendar"></iframe>
+
+-------------------------
+
+# Newsletter Archive
+
+Explore our past newsletters and stay updated with the latest club news and events.
+
+-------------------------
+
+<div class="newsletter-archive">
+  <style>
+    .display_archive {
+      font-size: 18px;
+      line-height: 1.6;
+    }
+    .campaign {
+      line-height: 1.6;
+      margin: 10px 0;
+    }
+  </style>
+  <script
+    language="javascript"
+    src="https://nuwireless.us11.list-manage.com/generate-js/?u=e1625552574eea2fced003891&show=10&fid=19645"
+    type="text/javascript"
+  ></script>
+</div>
