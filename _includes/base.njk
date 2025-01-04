@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }}</title>
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <meta name="description" content="{{ description }}">
+    <style>
+      body {
+        background: url('/img/bkg.jpg') repeat, black;
+        color: white;
+        @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap');
+        font-family: 'IBM Plex Mono', monospace;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        min-height: 100vh;
+      }
+      header {
+        width: 50%;
+        max-width: 1000px;
+        text-align: center;
+        background-color: rgba(0, 0, 0, 0.8);
+        padding: 20px;
+        margin-bottom: 20px;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+      }
+      a {
+        color: white; /* Change link color to white */
+      }
+      .container {
+        display: flex;
+        flex-direction: row;
+        max-width: 1000px;
+        width: 100%;
+        background-color: rgb(0, 0, 0);
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+        overflow: hidden;
+      }
+      .content img {
+        max-width: 50%;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+      }
+      .navbar {
+        width: 15%;
+        padding: 20px;
+        background-color: rgba(255, 255, 255, 0.1);
+        border-right: 2px solid rgba(255, 255, 255, 0.2);
+        word-wrap: break-word;
+      }
+      .navbar ul {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+      }
+      .navbar li {
+        margin: 10px 0;
+      }
+      .navbar a {
+        text-decoration: none;
+        color: white;
+        font-weight: bold;
+      }
+      .divider {
+        display: block;
+        height: 1px;
+        background-color: rgb(255, 255, 255);
+        margin: 10px 0;
+      }
+      .content {
+        width: 75%;
+        padding: 20px;
+        word-wrap: break-word;
+      }
+      .slack-link img {
+        background: white;
+        padding: 10px; /* Extend white background */
+        border-radius: 8px;
+        display: block;
+        max-width: 80%;
+        height: auto;
+        box-shadow: 0 0 10px rgba(255, 255, 255, 0.3); /* Optional shadow for emphasis */
+      }
+      .retro-button {
+        display: inline-block;
+        text-decoration: none;
+        color: white;
+        font-family: 'Press Start 2P', monospace; /* Optional retro font */
+        background-color: #222;
+        border: 2px solid #fff;
+        padding: 10px 20px;
+        margin: 10px 0;
+        text-align: center;
+        box-shadow: 3px 3px 0 #fff, 5px 5px 0 #222;
+        transition: transform 0.2s, box-shadow 0.2s;
+      }
+      .retro-button.disabled {
+        background-color: #555;
+        color: #888;
+        border-color: #888;
+        box-shadow: none;
+        cursor: not-allowed;
+        transform: none;
+        pointer-events: none; /* Prevent hover and active effects */
+      }
+      .retro-button:hover:not(.disabled) {
+        background-color: #fff;
+        color: #222;
+        transform: translate(-3px, -3px);
+        box-shadow: 5px 5px 0 #fff, 8px 8px 0 #222;
+      }
+      .retro-button:active:not(.disabled) {
+        transform: translate(3px, 3px);
+        box-shadow: 2px 2px 0 #fff, 3px 3px 0 #222;
+      }
+      footer {
+        text-align: center;
+        margin-top: 20px;
+        color: rgba(255, 255, 255, 0.7);
+      }
+      footer a {
+        color: white;
+        text-decoration: none;
+      }
+      table {
+        width: 90%; /* Make the table span the container width */
+        border-collapse: collapse; /* Remove gaps between cells */
+        margin: 20px 0; /* Add some spacing above and below the table */
+        font-size: 16px;
+        color: black;
+      }
+      th,
+      td {
+        padding: 12px 15px; /* Add padding for readability */
+        text-align: left; /* Align text to the left */
+        border: 1px solid #ddd; /* Add a light border */
+      }
+      th {
+        background-color: #222; /* Dark background for headers */
+        color: white; /* White text for headers */
+        text-transform: uppercase; /* Capitalize header text */
+      }
+      tr:nth-child(even) {
+        background-color: #f9f9f9; /* Light gray for even rows */
+      }
+      tr:nth-child(odd) {
+        background-color: #fff; /* White for odd rows */
+      }
+      tr:hover {
+        background-color: #f1f1f1; /* Slightly darker gray on hover */
+      }
+      caption {
+        caption-side: top; /* Place caption above the table */
+        font-weight: bold;
+        font-size: 1.2em;
+        margin-bottom: 10px;
+        text-align: left;
+      }
+      .history-page .content img {
+        width: 100%; /* Full-width images for the history page */
+        height: auto; /* Maintain aspect ratio */
+      }
+      /* Mobile Styles */
+      @media(max-width: 768px) {
+        header,
+        .container,
+        .navbar,
+        .content,
+        footer {
+          text-align: center;
+        }
+        header {
+          width: 100%;
+        }
+        .slack-container {
+          display: flex; /* Use flexbox to position elements side by side */
+          justify-content: center; /* Center the links horizontally */
+          align-items: center; /* Align items vertically */
+          gap: 10px; /* Add space between the items */
+        }
+        .slack-link img {
+          max-width: 100px; /* Scale down the images */
+          height: auto; /* Maintain aspect ratio */
+          border-radius: 8px; /* Optional: Add rounded corners */
+          box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Optional: Add shadow for emphasis */
+        }
+        .container {
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+        }
+        .navbar {
+          width: 100%;
+          text-align: center;
+          border-right: none;
+          border-bottom: 2px solid rgba(255, 255, 255, 0.2);
+        }
+        .navbar ul {
+          display: flex;
+          justify-content: center;
+          flex-wrap: wrap;
+        }
+        .navbar li {
+          margin: 10px;
+        }
+        .content {
+          width: 85%;
+        }
+        .content img {
+          display: none;
+        }
+        .non-mobile-link {
+          display: none; /* Hide solar stats on mobile */
+        }
+        .divider {
+          display: none; /* Hide the divider on mobile */
+        }
+      }
+    </style>
+  </head>
+  <body class="{{ pageClass | default('default') }}">
+    <header>
+      <h1>NU Wireless Club - W1KBN</h1>
+      <p>Northeastern's club for radio and electronics experimentation</p>
+    </header>
+    <div class="container">
+      <div class="navbar">
+        {% include "navbar.njk" %}
+      </div>
+      <div class="content">
+        <main>
+          {{ content | safe }}
+        </main>
+        <footer>
+          <p>&copy; 2025 Northeastern Wireless Club. Design by Jonah Lefkoff.</p>
+        </footer>
+      </div>
+    </div>
+  </body>
+</html>
