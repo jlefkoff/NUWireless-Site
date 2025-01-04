@@ -19,7 +19,7 @@ For general inquiries, please email us at `info at nuwireless.org`.
 | Co-President | Tyler Von Pervieux K0NX | `president at nuwireless.org` |
 | Vice President | Garrett Compston KW1RM | `vp at nuwireless.org` |
 | Ham Guru | Jacy Hoffmann KC1SZV | `treasurer at nuwireless.org` |
-| Outreach Coordinator | ????????? | `outreach at nuwireless.org` |
-| Lab Manager | ????????? | `lab at nuwireless.org` |
+| Outreach Coordinator | Faith Degawa KQ4YAU | `outreach at nuwireless.org` |
+| Lab Manager | Leo Norton KF0PQB | `lab at nuwireless.org` |
 | Workshop Warriors | Maggie Heaney KC1TOQ, Vlad Aviedov N1GNU, Muhammad Elarbi | `workshops at nuwireless.org` |
 | Treasurer | Jake Ginesin KC3UTS | `treasurer at nuwireless.org` |

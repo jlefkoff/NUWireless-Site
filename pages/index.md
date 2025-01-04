@@ -40,7 +40,7 @@ Every Monday in **East Village 010** at **7pm**, we have a workshop run in conju
 
 We maintain a world-class electronics makerspace and ham radio operating station in the penthouse of Hayden Hall. Come visit us during a weekly meeting, and learn more about our membership for **unlimited** lab space access.
 
-<a href="/workshop" class="retro-button">Lab Info</a>
+<a href="/lab" class="retro-button">Lab Info</a>
 
 -------------------------
 
