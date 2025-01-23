@@ -42,4 +42,4 @@ Below is a small listing of some of the equipment we have in the lab. This is by
 ## Door Code Access
 Club members who have attended at __least three__ meetings in the Hayden lab space may apply for a door code. This requires a $10 nonrefundable due, as well as a written agreement to lab policies. Sign up for a door code, and view the lab policies below.
 
-<a href="" class="retro-button disabled">Door Code Application</a> <a href="https://docs.nuwireless.org/" class="retro-button">Lab Policies</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScMb4jPnIqcqEDi6Pu5kDI-bmgcmtFZwhIdcCgg18u3gYW-og/viewform?usp=dialog" class="retro-button">Door Code Application</a> <a href="https://docs.nuwireless.org/" class="retro-button">Lab Policies</a>
