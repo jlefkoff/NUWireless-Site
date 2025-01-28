@@ -10,22 +10,21 @@ Every Monday in ****TBA****, we have a workshop run in conjunction with the [Ele
 
 Below is the list of workshops this semester along with dates and short descriptions. Absolutely no experience is required. Please sign up!
 
-<a href="" class="retro-button disabled">SIGN UP SOON</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSecnBIPUYOJV_P8LAFTMhFfYXSi4sqPgH43VaIjzk_JeR1mbQ/viewform?usp=sharing" class="retro-button">SIGN UP HERE</a>
 
 ## This Semester's Schedule
 
 | Date     | Topic   |
 | -------- | ------- |
-| 1/13/24  | TBA |
-| 1/27/24  | TBA |
-| 2/3/24   | TBA |
-| 2/10/24  | TBA |
-| 2/24/24  | TBA |
-| 3/10/24  | TBA |
-| 3/17/24  | TBA |
-| 3/24/24  | TBA |
+| 1/27/24  | Tape Measure Yagi |
+| 2/3/24   | Schematic Capture |
+| 2/10/24  | SPICE Circuit Simulation |
+| 2/24/24  | PCB Design |
+| 3/10/24  | Intro to soldering |
+| 3/13/24  | Intro to soldering (in Hayden 503) |
+| 3/17/24  | Advanced Soldering |
+| 3/24/24  | Intro to Git |
 | 3/31/24  | TBA |
-| 4/7/24   | TBA |
 
 ## Workshop Descriptions
 

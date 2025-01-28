@@ -14,14 +14,14 @@ description: Learn all about our weekly meetings!
 | Date     | Topic   | Speaker |
 | -------- | ------- | ------- |
 | 1/9/24   | Open House | EBoard |
-| 1/16/24  | TBA | TBA |
-| 1/23/24  | TBA | TBA |
-| 1/30/24  | TBA | TBA |
-| 2/6/24   | TBA | TBA |
-| 2/13/24  | TBA | TBA |
+| 1/16/24  | Digital Radio Comms | Garrett |
+| 1/23/24  | Ham exam Prep | Jacy |
+| 1/30/24  | Radio Scanning | Collin |
+| 2/6/24   | Intro to Contesting | TBA |
+| 2/13/24  | School Club Roundup | TBA |
 | 2/20/24  | TBA | TBA |
 | 2/27/24  | TBA | TBA |
-| 3/13/24  | TBA | TBA |
+| 3/13/24  | Intro to Soldering Workshop | EBoard |
 | 3/20/24  | TBA | TBA |
 | 3/27/24  | TBA | TBA |
 | 4/3/24   | TBA | TBA |

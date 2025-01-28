@@ -24,4 +24,4 @@ The exam is administered electronically, so you must bring a laptop. A calculato
 
 We generally hold exams on the third Thursday of each month from 6 to 7pm. Please sign up for the exam you wish to take below.
 
-<a href="" class="retro-button disabled">SIGN UP SOON</a>
+<a href="https://ham.study/sessions/6792db21c852fd7cf08008de/1" class="retro-button">Jan 30 @6PM</a>
