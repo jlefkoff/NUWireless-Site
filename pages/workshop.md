@@ -16,15 +16,15 @@ Below is the list of workshops this semester along with dates and short descript
 
 | Date     | Topic   |
 | -------- | ------- |
-| 1/27/24  | Tape Measure Yagi |
-| 2/3/24   | Schematic Capture |
-| 2/10/24  | SPICE Circuit Simulation |
-| 2/24/24  | PCB Design |
-| 3/10/24  | Intro to soldering |
-| 3/13/24  | Intro to soldering (in Hayden 503) |
-| 3/17/24  | Advanced Soldering |
-| 3/24/24  | Intro to Git |
-| 3/31/24  | TBA |
+| 1/27/25  | Tape Measure Yagi |
+| 2/3/25   | Schematic Capture |
+| 2/10/25  | SPICE Circuit Simulation |
+| 2/24/25  | PCB Design |
+| 3/10/25  | Intro to soldering |
+| 3/13/25  | Intro to soldering (in Hayden 503) |
+| 3/17/25  | Advanced Soldering |
+| 3/24/25  | Intro to Git |
+| 3/31/25  | TBA |
 
 ## Workshop Descriptions
 
