@@ -13,19 +13,19 @@ description: Learn all about our weekly meetings!
 
 | Date     | Topic   | Speaker |
 | -------- | ------- | ------- |
-| 1/9/24   | Open House | EBoard |
-| 1/16/24  | Digital Radio Comms | Garrett |
-| 1/23/24  | Ham exam Prep | Jacy |
-| 1/30/24  | Radio Scanning | Collin |
-| 2/6/24   | Intro to Contesting | TBA |
-| 2/13/24  | School Club Roundup | TBA |
-| 2/20/24  | TBA | TBA |
-| 2/27/24  | TBA | TBA |
-| 3/13/24  | Intro to Soldering Workshop | EBoard |
-| 3/20/24  | TBA | TBA |
-| 3/27/24  | TBA | TBA |
-| 4/3/24   | TBA | TBA |
-| 4/10/24  | Elections and Brownie Bake-off | EBoard |
+| 1/9/25   | Open House | EBoard |
+| 1/16/25  | Digital Radio Comms | Garrett |
+| 1/23/25  | Ham exam Prep | Jacy |
+| 1/30/25  | Radio Scanning | Collin |
+| 2/6/25   | Intro to Contesting | TBA |
+| 2/13/25  | School Club Roundup | TBA |
+| 2/20/25  | TBA | TBA |
+| 2/27/25  | TBA | TBA |
+| 3/13/25  | Intro to Soldering Workshop | EBoard |
+| 3/20/25  | TBA | TBA |
+| 3/27/25  | TBA | TBA |
+| 4/3/25   | TBA | TBA |
+| 4/10/25  | Elections and Brownie Bake-off | EBoard |
 
 # Past Meeting Topics
 
